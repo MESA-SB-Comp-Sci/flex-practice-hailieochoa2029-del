@@ -5,7 +5,9 @@
 .challenge-1 {
   background-color: grey;
   width: 100vw;
-  /* add code below */
+  display: flex;
+  flex-direction: row;
+  
 
 
 }
